@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <h2 align="center">
-  I'm <span style="color:#00F7FF;">RithCode</span> ✨
+  I'm <span style="color:#00F7FF;">Harith</span> ✨
 </h2>
 
 <h3 align="center">
@@ -29,7 +29,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,react,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,next,mysql,git,github,firebase,aws,dart" />
 </p>
 
 ---
@@ -47,21 +47,6 @@
   <img src="https://streak-stats.demolab.com?user=Trixxy98&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Trixxy98">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ✨ Made with passion by <strong>RithCode</strong>
-</p>
 
 ---
 
@@ -69,4 +54,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trixxy98/Trixxy98/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  ✨ Made with passion by <strong>RithCode</strong>
 </p>
