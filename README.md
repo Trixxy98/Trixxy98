@@ -62,3 +62,11 @@
 <p align="center">
   ✨ Made with passion by <strong>RithCode</strong>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trixxy98/Trixxy98/output/github-contribution-grid-snake.svg" />
+</p>
