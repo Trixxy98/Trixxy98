@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <h2 align="center">
-  I'm <span style="color:#00F7FF;">RithCode</span> ✨
+  I'm <span style="color:#00F7FF;">Harith</span> ✨
 </h2>
 
 <h3 align="center">
@@ -29,7 +29,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,react,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,next,mysql,git,github,firebase,aws,dart" />
 </p>
 
 ---
