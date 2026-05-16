@@ -41,15 +41,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Trixxy98&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
