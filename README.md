@@ -29,7 +29,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,next,mysql,git,github,firebase,aws,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,next,mysql,github,firebase,dart" />
 </p>
 
 ---
@@ -37,15 +37,6 @@
 ## 📊 GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trixxy98&theme=github_dark" />
-
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Trixxy98&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
 
 
 ---
