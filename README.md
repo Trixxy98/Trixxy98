@@ -16,16 +16,6 @@
 
 ---
 
-## 🎨 About Me
-
-- 💻 I build modern web applications  
-- 🚀 Currently improving my full-stack skills  
-- 🧠 Always exploring new technologies  
-- 🎯 Goal: Become a top-tier Web Engineer  
-- ⚡ Fun fact: I enjoy designing clean and aesthetic UIs  
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
