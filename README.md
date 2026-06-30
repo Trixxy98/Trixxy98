@@ -5,6 +5,8 @@
 <h1>Hey there 👋</h1>
 <h2>I'm <span style="color:#00F7FF;">Harith</span> ✨</h2>
 <h3>🌐 Creative Web Developer | Building Cool Things on the Internet</h3>
+<p><a href="https://portfolio-trixxy98s-projects.vercel.app/">My Portfolio</a></p>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=00F7FF&center=false&vCenter=true&width=500&lines=Passionate+Web+Developer;Frontend+%2B+Backend+Builder;Always+Learning+New+Tech;Turning+Ideas+Into+Reality" />
 
