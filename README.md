@@ -20,22 +20,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <table align="center" border="0" cellspacing="0" cellpadding="10"><tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Trixxy98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trixxy98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
+<img src="https://ghstats.dev/api/card?username=Trixxy98&theme=tokyonight" />
 </td>
 </tr></table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Trixxy98&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</p>
-
----
 
 ### 🛠 Tech Stack
 
