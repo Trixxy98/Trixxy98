@@ -1,50 +1,79 @@
+<div align="center">
 
-<table align="center" border="0" cellspacing="0" cellpadding="0"><tr>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
 <td valign="middle" width="60%">
 
-<h1>Hey there 👋</h1>
-<h2>I'm <span style="color:#00F7FF;">Harith</span> ✨</h2>
-<h3>🌐 Creative Web Developer | Building Cool Things on the Internet</h3>
-<p><a href="https://harithfakrullah.dev">My Portfolio</a></p>
+# Hey there 👋
+## I'm <span style="color:#00F7FF;">Harith</span> ✨
 
+### 🌐 Creative Web Developer | Building Cool Things on the Internet
 
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=00F7FF&center=false&vCenter=true&width=500&lines=Passionate+Web+Developer;Frontend+%2B+Backend+Builder;Always+Learning+New+Tech;Turning+Ideas+Into+Reality" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-harithfakrullah.dev-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://harithfakrullah.dev)
 
-</td>
-<td valign="middle" width="40%">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c5OGxxazlhMWI0YTlwM285MGc2aWNqaGw1ZmxrYjB1OXZjcWFxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="300" alt="Coding at desk" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=Passionate+Web+Developer;Frontend+%2B+Backend+Builder;Always+Learning+New+Tech;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 </td>
-</tr></table>
+<td valign="middle" width="40%" align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c5OGxxazlhMWI0YTlwM285MGc2aWNqaGw1ZmxrYjB1OXZjcWFxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="280" alt="Coding at desk" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 ---
 
-<table align="center" border="0" cellspacing="0" cellpadding="10"><tr>
-<td>
-<img src="https://ghstats.dev/api/card?username=Trixxy98&theme=tokyonight" />
-</td>
-</tr></table>
+<br>
 
-### 🛠 Tech Stack
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,next,mysql,github,firebase,postgres" />
-</p>
+<div align="center">
+<img src="https://ghstats.dev/api/card?username=Trixxy98&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<br>
 
 ---
 
-### 🐍 Contribution Snake
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trixxy98/Trixxy98/output/github-contribution-grid-snake.svg" />
-</p>
+## 🛠 Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,next,mysql,github,firebase,postgres" alt="Tech Stack" />
+</div>
+
+<br>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Trixxy98&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" />
-</p>
+<br>
 
-<p align="center">✨ Made with passion by <strong>RithCode</strong></p>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg" />
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Trixxy98/Trixxy98/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Trixxy98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trixxy98)
+[![Portfolio](https://img.shields.io/badge/Website-Visit-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://harithfakrullah.dev)
+
+<img src="https://komarev.com/ghpvc/?username=Trixxy98&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+✨ Made with passion by **RithCode**
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg" alt="Footer" width="100%" />
+
+</div>
