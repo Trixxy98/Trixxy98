@@ -43,20 +43,7 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,angular,next,mysql,github,spring,firebase,postgres,docker,aws" alt="Tech Stack" />
-</div>
-
-<br>
-
----
-
-<br>
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Trixxy98/Trixxy98/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,c,nodejs,react,angular,next,mysql,github,spring,firebase,postgres,docker,aws" alt="Tech Stack" />
 </div>
 
 <br>
