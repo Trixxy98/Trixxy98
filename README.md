@@ -52,19 +52,6 @@
 
 <br>
 
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Trixxy98/Trixxy98/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
-</div>
-
-<br>
-
----
-
-<br>
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Trixxy98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trixxy98)
