@@ -28,18 +28,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://ghstats.dev/api/card?username=Trixxy98&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<br>
-
----
-
-<br>
-
 ## 🛠 Tech Stack
 
 <div align="center">
