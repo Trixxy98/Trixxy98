@@ -45,7 +45,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Trixxy98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Trixxy98)
 [![Portfolio](https://img.shields.io/badge/Website-Visit-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://harithfakrullah.dev)
 
-<img src="https://komarev.com/ghpvc/?username=Trixxy98&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 ✨ Made with passion by **RithCode**
 
